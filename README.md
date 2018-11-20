@@ -8,7 +8,7 @@ Interviews, Second Edition.
 1. Primitive Types — **done**
 2. Arrays — **done**
 3. Strings — **done**
-4. Linked Lists — 1/13
+4. Linked Lists — 2/13
 5. Stacks and Queues — 1/10
 
 ## Sorting and Data Structures
